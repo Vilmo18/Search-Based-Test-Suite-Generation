@@ -259,7 +259,7 @@ Configuration performance (best ratio per run, aggregated over 5 runs):
 
 Convergence plot:
 
-![](plots/urlparse_convergence.png)
+![urlparse convergence](plots/urlparse_convergence.png)
 
 **Best configuration (Q3, urlparse):** `GA+RandomSel`
 
@@ -278,7 +278,7 @@ Configuration performance (best ratio per run, aggregated over 5 runs):
 
 Convergence plot:
 
-![](plots/htmlparser_convergence.png)
+![HTMLParser.feed convergence](plots/htmlparser_convergence.png)
 
 **Best configuration (Q3, HTMLParser.feed):** `GA+Tournament`
 
