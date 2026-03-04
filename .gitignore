@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # TP3 generated artifacts
-plots/
-results/
+# plots/
+# results/

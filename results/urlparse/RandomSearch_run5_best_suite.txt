@@ -1,0 +1,1 @@
+1|ssh|custom://admin:1234@[::1]:80/%2e%2e/?PT#.8z

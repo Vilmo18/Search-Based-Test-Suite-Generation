@@ -1,0 +1,1 @@
+1|ftp| mailto://user:pass@[2001:db8::1]:-1é/?qn#4

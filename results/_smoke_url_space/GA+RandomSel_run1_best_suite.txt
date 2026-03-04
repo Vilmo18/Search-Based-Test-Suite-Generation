@@ -1,0 +1,2 @@
+1|ssh|file://user:pass@localhost:99999/Ha/tyXzlkm/1u/8?5 
+1||mailto:/C/Ga~Dug/8B2/N2w/~ZO/Q?N

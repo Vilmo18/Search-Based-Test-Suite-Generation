@@ -1,0 +1,71 @@
+{
+  "args": {
+    "budget": 30,
+    "pop_size": 10,
+    "runs": 1,
+    "seed": 999
+  },
+  "by_config": {
+    "GA+RandomSel": {
+      "best_max": 87.0,
+      "best_mean": 87.0,
+      "best_std": 0.0
+    },
+    "GA+Tournament": {
+      "best_max": 97.0,
+      "best_mean": 97.0,
+      "best_std": 0.0
+    },
+    "RandomSearch": {
+      "best_max": 91.0,
+      "best_mean": 91.0,
+      "best_std": 0.0
+    }
+  },
+  "created_at": "2026-02-28T14:09:29.532385+00:00",
+  "runs": [
+    {
+      "best_lines": 97,
+      "best_ratio": 97.0,
+      "best_tests": 1,
+      "budget": 30,
+      "config": "GA+Tournament",
+      "exceptions": 0,
+      "exec_time_s": 0.0014178752899169922,
+      "pop_size": 10,
+      "res_F": -97.0,
+      "run": 1,
+      "seed": 999,
+      "suite_file": "practical3/results/_smoke_html_alias/GA+Tournament_run1_best_suite.txt"
+    },
+    {
+      "best_lines": 87,
+      "best_ratio": 87.0,
+      "best_tests": 1,
+      "budget": 30,
+      "config": "GA+RandomSel",
+      "exceptions": 0,
+      "exec_time_s": 0.0014960765838623047,
+      "pop_size": 10,
+      "res_F": -87.0,
+      "run": 1,
+      "seed": 999,
+      "suite_file": "practical3/results/_smoke_html_alias/GA+RandomSel_run1_best_suite.txt"
+    },
+    {
+      "best_lines": 91,
+      "best_ratio": 91.0,
+      "best_tests": 1,
+      "budget": 30,
+      "config": "RandomSearch",
+      "exceptions": 0,
+      "exec_time_s": 0.0021321773529052734,
+      "pop_size": 10,
+      "res_F": -91.0,
+      "run": 1,
+      "seed": 999,
+      "suite_file": "practical3/results/_smoke_html_alias/RandomSearch_run1_best_suite.txt"
+    }
+  ],
+  "sut": "html.parser.HTMLParser.feed"
+}
